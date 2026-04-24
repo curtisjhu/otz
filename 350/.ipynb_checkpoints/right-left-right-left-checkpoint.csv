@@ -1,3 +1,13 @@
+#Digilent WaveForms Oscilloscope Acquisition
+#Device Name: DiscoveryStudio
+#Serial Number: SN:210384B8330D
+#Date Time: 2026-04-13 15:50:59.019
+#Sample rate: 1600Hz
+#Samples: 32542
+#Trigger: Source: Channel 1 Type: Edge Condition: Rising Level: 0 V Hyst.: Auto HoldOff: 0 s
+#Channel 1: Range: 50 mV/div Offset: 0 V Sample Mode: Average
+#Channel 2: Range: 100 mV/div Offset: 0 V Sample Mode: Average
+
 Time (s),Channel 1 (V),Channel 2 (V)
 -81.92,-0.005385276066038959,0.01541415934196835
 -81.919375,-0.03350066004312036,0.09939227936212061
